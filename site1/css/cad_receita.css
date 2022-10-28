@@ -175,7 +175,7 @@ h2{
 }
 
 .opcoes{
-    margin-top: 47px;
+    margin-top: 46px;
     width: 100%;
     color: #1e3932;
     font-weight: 600;
@@ -185,7 +185,7 @@ h2{
     background: #ff8800;
     color: aliceblue;
     cursor: pointer;    
-    padding: 10px;
+    padding: 12px;
     font-size: 16px;
 }
 
